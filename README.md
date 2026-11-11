@@ -1,6 +1,8 @@
+
+
 # Hi, I'm Md Ataur Rahman 👋
 
-### CSE Student | Full-Stack Developer | Aspiring AI/ML Engineer
+### CSE Student | Problem Solver | Full-Stack Developer | Aspiring AI/ML Engineer
 
 I am a Computer Science and Engineering student at **Shahjalal University of Science and Technology (SUST), Bangladesh**.
 
@@ -58,53 +60,13 @@ Currently, I am focusing on Full-Stack Development and Artificial Intelligence &
 
 ---
 
-## 🚀 Featured Projects
-
-### 1. Citizen Problem Reporting System
-A web-based platform designed to help citizens report local problems such as damaged roads, drainage issues, garbage and broken streetlights.
-
-- Complaint reporting and management
-- Image uploads
-- Complaint status tracking
-- User interaction and upvoting
-- Backend API and database integration
-
-**Technologies:** JavaScript, Node.js, Express.js, SQL
-
-**Status:** In Progress
-
-### 2. Fdownload – Android Application
-An Android application project focused on downloading publicly accessible video files through direct download links.
-
-- URL input and download functionality
-- Download progress
-- Download history
-- File management
-
-**Technologies:** Kotlin, Android, Jetpack Compose
-
-**Status:** In Progress
-
-### 3. Smart UniAssistant
-A university-focused platform concept designed to centralize academic information and make university life easier.
-
-- Academic notices
-- Class routines
-- Assignments and study materials
-- CGPA planning
-- Department-related information
-
-**Status:** Project Concept / Planning
-
----
-
 ## 🧠 AI & Machine Learning
 
 I am interested in understanding how intelligent systems learn from data and solve practical problems.
 
 Currently exploring:
 
-- Machine Learning fundamentals
+- Machine Learning Fundamentals
 - Supervised and Unsupervised Learning
 - Regression and Classification
 - Clustering Algorithms
@@ -166,9 +128,10 @@ I practice programming and algorithmic problem solving to improve my logical thi
 I am always open to learning, collaboration, technical discussions and meaningful projects.
 
 - 💻 GitHub: [@ataurcsesust](https://github.com/ataurcsesust)
-- 💼 LinkedIn: [https://www.linkedin.com/in/ataur-rahman-215464385]
-- 📧 Email: [ataur.rahman.33660@gmail.com]
+- 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/ataur-rahman-215464385)
+- 📧 Email: [ataur.rahman.33660@gmail.com](mailto:ataur.rahman.33660@gmail.com)
 
 ---
 
 ⭐ *Keep Learning, Keep Building, Keep Improving.*
+
