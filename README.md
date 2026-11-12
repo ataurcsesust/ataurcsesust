@@ -83,11 +83,11 @@ I am continuously improving my mathematical foundations and practical implementa
 
 | Area | Technologies / Topics |
 |---|---|
-| Programming | C++, Python, JavaScript |
+| Programming | C++, Java, Python, JavaScript |
 | Frontend | HTML, CSS, React |
 | Backend | FastAPI, Node.js, Express |
-| Database | PostgreSQL, SQL |
-| AI/ML | NumPy, Pandas, Scikit-learn, PyTorch |
+| Database | Postgress, MySQL, MongoDB |
+| AI/ML | NumPy, Pandas, Seaborn, Scikit-learn, PyTorch |
 | CS Fundamentals | DSA, OOP, DBMS, Operating Systems |
 | Tools | Git, GitHub, Linux |
 
